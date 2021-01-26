@@ -1,0 +1,13 @@
+C:\Users\prado\Documents\Udemy\C#\exercise-polymorphism-csharp\exercise-polymorphism-csharp\bin\Debug\netcoreapp3.1\exercise-polymorphism-csharp.exe
+C:\Users\prado\Documents\Udemy\C#\exercise-polymorphism-csharp\exercise-polymorphism-csharp\bin\Debug\netcoreapp3.1\exercise-polymorphism-csharp.deps.json
+C:\Users\prado\Documents\Udemy\C#\exercise-polymorphism-csharp\exercise-polymorphism-csharp\bin\Debug\netcoreapp3.1\exercise-polymorphism-csharp.runtimeconfig.json
+C:\Users\prado\Documents\Udemy\C#\exercise-polymorphism-csharp\exercise-polymorphism-csharp\bin\Debug\netcoreapp3.1\exercise-polymorphism-csharp.runtimeconfig.dev.json
+C:\Users\prado\Documents\Udemy\C#\exercise-polymorphism-csharp\exercise-polymorphism-csharp\bin\Debug\netcoreapp3.1\exercise-polymorphism-csharp.dll
+C:\Users\prado\Documents\Udemy\C#\exercise-polymorphism-csharp\exercise-polymorphism-csharp\bin\Debug\netcoreapp3.1\exercise-polymorphism-csharp.pdb
+C:\Users\prado\Documents\Udemy\C#\exercise-polymorphism-csharp\exercise-polymorphism-csharp\obj\Debug\netcoreapp3.1\exercise-polymorphism-csharp.csprojAssemblyReference.cache
+C:\Users\prado\Documents\Udemy\C#\exercise-polymorphism-csharp\exercise-polymorphism-csharp\obj\Debug\netcoreapp3.1\exercise-polymorphism-csharp.AssemblyInfoInputs.cache
+C:\Users\prado\Documents\Udemy\C#\exercise-polymorphism-csharp\exercise-polymorphism-csharp\obj\Debug\netcoreapp3.1\exercise-polymorphism-csharp.AssemblyInfo.cs
+C:\Users\prado\Documents\Udemy\C#\exercise-polymorphism-csharp\exercise-polymorphism-csharp\obj\Debug\netcoreapp3.1\exercise-polymorphism-csharp.csproj.CoreCompileInputs.cache
+C:\Users\prado\Documents\Udemy\C#\exercise-polymorphism-csharp\exercise-polymorphism-csharp\obj\Debug\netcoreapp3.1\exercise-polymorphism-csharp.dll
+C:\Users\prado\Documents\Udemy\C#\exercise-polymorphism-csharp\exercise-polymorphism-csharp\obj\Debug\netcoreapp3.1\exercise-polymorphism-csharp.pdb
+C:\Users\prado\Documents\Udemy\C#\exercise-polymorphism-csharp\exercise-polymorphism-csharp\obj\Debug\netcoreapp3.1\exercise-polymorphism-csharp.genruntimeconfig.cache
